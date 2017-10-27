@@ -82,7 +82,7 @@ The most effective way is to open an [issue](https://github.com/ReactJSSG/meetup
 ## 📝 Organizers' checklist
 
 - [ ]  Confirm date and venue availability 
-- [ ]  Create event on [API Craft SG Meetup Page](https://www.meetup.com/React-Singapore)
+- [ ]  Create event on [ReactJS SG Meetup Page](https://www.meetup.com/React-Singapore)
 - [ ]  Inform [engineers.sg](https://engineers.sg/bookings) for video recordings
 
 ## Credits
