@@ -6,7 +6,7 @@
 
 Month     | Date (Day)       | Confirmed?
 :---------|:-----------------|:----
-December |                |
+[January](https://github.com/ReactJSSG/meetups/issues/1) |                |
 
 Check the calendar on our [Meetup page](https://www.meetup.com/React-Singapore/events) for all upcoming events.
 
