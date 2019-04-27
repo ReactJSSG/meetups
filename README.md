@@ -26,10 +26,6 @@ Here are some ideas:
 
 - Other FRP-related libraries and languages such as Elm, cycle.js, etc.
 
-## 📹 Recorded past events
-
-Most of our talks at talk.js are recorded by volunteers from Engineers.SG. Watch recordings from our past [events](https://engineers.sg/organization/reactjs-singapore--147).
-
 ## 🎙 How to propose a talk
 
 Each month will have a corresponding [issue](https://github.com/ReactJSSG/meetups/issues) in this repo. To propose a talk leave a comment on the month's issue with the following format:
@@ -70,12 +66,6 @@ Have something you'd like to tell the audience? We have an open announcement seg
 ## 💬 Reach out to the organizers
 
 The most effective way is to open an [issue](https://github.com/ReactJSSG/meetups/issues/new) if you have questions, suggestions, or feedback.
-
-## 📝 Organizers' checklist
-
-- [ ]  Confirm date and venue availability 
-- [ ]  Create event on [ReactJS SG Meetup Page](https://www.meetup.com/React-Singapore)
-- [ ]  Inform [engineers.sg](https://engineers.sg/bookings) for video recordings
 
 ## Credits
 
