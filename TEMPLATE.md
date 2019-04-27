@@ -42,14 +42,3 @@ Want to give a talk? Leave a comment below with the following format:
 > **Deck URL (if any)**
 >
 > You can add this part in later
-
----
-
-<details>
- <summary>📝 Organizers' checklist</summary>
-
-- [ ]  Confirm date and venue availability 
-- [ ]  Create event on [React JS SG Meetup Page](https://www.meetup.com/React-Singapore)
-- [ ]  Inform [engineers.sg](https://engineers.sg/bookings) for video recordings
-
-</details>
